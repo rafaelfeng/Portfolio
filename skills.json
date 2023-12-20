@@ -13,7 +13,8 @@
     },
     {
         "name": "PHP",
-        "icon": "https://www.php.net/images/logos/new-php-logo.svg"
+        "icon": "https://www.php.net/images/logos/new-php-logo.svg",
+        "width"="48"
     },
     {
         "name": "HTML",
