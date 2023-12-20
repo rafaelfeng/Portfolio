@@ -1,26 +1,26 @@
 [
     {
         "name": "Matematika",
-        "icon": "https://img.icons8.com/color/48/000000/math.png"
+        "icon": "https://img.icons8.com/color/96/000000/math.png"
     },
     {
         "name": "C++",
-        "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
+        "icon": "https://img.icons8.com/color/96/000000/c-plus-plus-logo.png"
     },
     {
         "name": "Python",
-        "icon": "https://img.icons8.com/color/48/000000/python.png"
+        "icon": "https://img.icons8.com/color/96/000000/python.png"
     },
     {
         "name": "PHP",
-        "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
+        "icon": "https://img.icons8.com/offices/96/000000/php-logo.png"
     },
     {
         "name": "HTML",
-        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+        "icon": "https://img.icons8.com/color/96/000000/html-5--v1.png"
     },
     {
         "name": "Tenis meja",
-        "icon": "https://img.icons8.com/color/48/000000/table-tennis.png"
+        "icon": "https://img.icons8.com/color/96/000000/table-tennis.png"
     }
 ]
